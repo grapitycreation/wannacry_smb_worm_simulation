@@ -1,0 +1,31 @@
+D:\VS\Wanna Decrypt0r vN5.0\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.csproj.AssemblyReference.cache
+D:\VS\Wanna Decrypt0r vN5.0\Wanna Decrypt0r vN5.0\obj\Debug\Wanna_Decrypt0r_vN5._0.Properties.Resources.resources
+D:\VS\Wanna Decrypt0r vN5.0\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.csproj.GenerateResource.cache
+D:\VS\Wanna Decrypt0r vN5.0\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.csproj.CoreCompileInputs.cache
+D:\VS\Wanna Decrypt0r vN5.0\Wanna Decrypt0r vN5.0\bin\Debug\Wanna Decrypt0r vN5.0.exe.config
+D:\VS\Wanna Decrypt0r vN5.0\Wanna Decrypt0r vN5.0\bin\Debug\Wanna Decrypt0r vN5.0.exe
+D:\VS\Wanna Decrypt0r vN5.0\Wanna Decrypt0r vN5.0\bin\Debug\Wanna Decrypt0r vN5.0.pdb
+D:\VS\Wanna Decrypt0r vN5.0\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.exe
+D:\VS\Wanna Decrypt0r vN5.0\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.pdb
+D:\VS\Wanna Decrypt0r vN5.0\Wanna Decrypt0r vN5.0\obj\Debug\Wanna_Decrypt0r_vN5._0.MainForm.resources
+D:\WannaCry_GUI\Wanna Decrypt0r vN5.0\bin\Debug\Wanna Decrypt0r vN5.0.exe.config
+D:\WannaCry_GUI\Wanna Decrypt0r vN5.0\bin\Debug\Wanna Decrypt0r vN5.0.exe
+D:\WannaCry_GUI\Wanna Decrypt0r vN5.0\bin\Debug\Wanna Decrypt0r vN5.0.pdb
+D:\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.csproj.AssemblyReference.cache
+D:\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna_Decrypt0r_vN5._0.MainForm.resources
+D:\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna_Decrypt0r_vN5._0.Properties.Resources.resources
+D:\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.csproj.GenerateResource.cache
+D:\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.csproj.CoreCompileInputs.cache
+D:\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.exe
+D:\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.pdb
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\bin\Debug\Wanna Decrypt0r vN5.0.exe.config
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\bin\Debug\Wanna Decrypt0r vN5.0.exe
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\bin\Debug\Wanna Decrypt0r vN5.0.pdb
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.csproj.AssemblyReference.cache
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.exe.config
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna_Decrypt0r_vN5._0.MainForm.resources
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna_Decrypt0r_vN5._0.Properties.Resources.resources
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.csproj.GenerateResource.cache
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.csproj.CoreCompileInputs.cache
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.exe
+D:\Cơ chế mã độc\WannaCry_GUI\Wanna Decrypt0r vN5.0\obj\Debug\Wanna Decrypt0r vN5.0.pdb
